@@ -1,4 +1,4 @@
-# yaminjeongeum(korean_leet)
+# yaminjeongeum(야민정음, korean_leet)
 
 about leet: https://en.wikipedia.org/wiki/Leet
 
