@@ -1,6 +1,7 @@
 # yaminjeongeum(korean_leet)
 
 about leet: https://en.wikipedia.org/wiki/Leet
+
 about yaminjeongeum(야민정음): https://namu.wiki/w/야민정음
 
 
