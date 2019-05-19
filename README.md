@@ -1,4 +1,4 @@
-# yaminjeongeum(야민정음, korean_leet)
+# Yaminjeongeum-TransLator 야민정음(korean_leet) 번역기
 
 #### about leet: https://en.wikipedia.org/wiki/Leet
 
